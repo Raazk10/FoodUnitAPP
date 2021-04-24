@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodUnitConverter</string>
+    <string name="convert_from">Convert From</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="kg">KG</string>
+    <string name="gram">GRAM</string>
+    <string name="convert_to">Convert To</string>
+    <string name="_gm">GM</string>
+    <string name="_kg">KG</string>
+    <string name="round_up_value">Round up value?</string>
+    <string name="kg_to_gram">KG to Gram</string>
+    <string name="gram_to_kg">Gram to KG</string>
+    <string name="choose_desired_unit">Choose Desired Unit</string>
+</resources>
